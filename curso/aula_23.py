@@ -11,7 +11,7 @@ c3 = carro()
 
 c1.velMax = 200
 c1.cor = 'preto'
-c1.ligado = False
+c1.ligado = False   
 
 print(f'velocidade Máxima: {c1.velMax}')
 print(f'Cor: {c1.cor}')
